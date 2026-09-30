@@ -69,4 +69,4 @@
 本アプリおよび本規約に関するお問い合わせは、[GitHub Issues](https://github.com/githiroshi/ExtraNote-Privacy/issues)から受け付けます。
 
 投稿内容は公開されます。氏名、電話番号、住所、非公開の募集情報その他の秘密情報を記載しないでください。
-```
+
